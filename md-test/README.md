@@ -42,5 +42,5 @@ $ git push -u origin $USER-your-new-feature
 ```
   $ hub pull-request -i <issue #>
 ```
-####7. Review
+####7. Review and Merge
 The pull request will be reviewed by one of the code reviewers (*) and merged to the master branch after addressing reviewer's comments. (ichikawa@google.com or ryok@google.com as of 2015/01/30).
