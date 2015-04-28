@@ -38,7 +38,7 @@ $ git commit
 $ git push -u origin $USER-your-new-feature
 ```
 ####6. Create a new pull request. 
-> -i is optional, but strongly encouraged.
+-i is optional, but strongly encouraged.
 ```
   $ hub pull-request -i <issue #>
 ```
